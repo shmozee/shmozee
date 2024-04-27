@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Zaid and I am a aspiring Data Scientist and future creator of something mildly important.
+
+WIP
+
+![term](https://github.com/shmozee/shmozee/assets/158101816/f9266077-55ac-47d0-9576-28910cbfceec)
+
+
 
 <!--
 **shmozee/shmozee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
