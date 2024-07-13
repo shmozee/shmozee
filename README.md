@@ -12,11 +12,15 @@ By trade:
 ... with asperations to upskill myself further in each area.
 
 I'm currently working on a Data Science Bootcamp with CoGrammer focusing on new skills: 
+
 ---> **Data processing** / **Data cleaning**
+
 ---> **Data visualisations** using **NumPy**, **Pandas**, **Seaborn** and **Matplotlib**
+
 ---> Using **ML** / **NLP models**
 
-My moto: Little but CONSISTENT progress will generate a wealth of results
+
+My moto: Little but **CONSISTENT** progress will generate a **wealth of results**
 
 <!--
 **shmozee/shmozee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
