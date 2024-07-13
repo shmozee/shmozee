@@ -1,11 +1,18 @@
 ### Hi there 👋
-My name is Zaid and I am a aspiring Data Scientist and future creator of something mildly important.
+Welcome to my corner of the internet.
+My name is Zaid and I am a hybrid tech enthusiast with hopes to develop my skills in mutliple areas of technology.
+By trade: 
+---> I am a Senior **QA Tester**
+---> I am a Junior **Data Scientist**
+---> I am a Junior **Software Developer** 
+... with asperations to upskill myself further in each area.
 
-WIP
+I'm currently working on a Data Science Bootcamp with CoGrammer focusing on new skills: 
+---> **Data processing** / **Data cleaning**
+---> **Data visualisations** using **NumPy**, **Pandas**, **Seaborn** and **Matplotlib**
+---> Using **ML** / **NLP models**
 
-![term](https://github.com/shmozee/shmozee/assets/158101816/f9266077-55ac-47d0-9576-28910cbfceec)
-
-
+My moto: Little but CONSISTENT progress will generate a wealth of results
 
 <!--
 **shmozee/shmozee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
