@@ -10,10 +10,12 @@ By trade:
 
 ---> I am a Junior **Software Developer** 
 
+
 ... with asperations to upskill myself further in each area.
 
 
 I'm currently working on a Data Science Bootcamp with CoGrammer focusing on new skills: 
+
 ---> **Data processing** / **Data cleaning**
 
 ---> **Data visualisations** using **NumPy**, **Pandas**, **Seaborn** and **Matplotlib**
