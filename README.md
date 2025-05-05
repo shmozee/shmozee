@@ -1,27 +1,19 @@
 ### Hi there 👋
 Welcome to my corner of the internet.
-My name is Zaid and I am a hybrid tech enthusiast with hopes to develop my skills in mutliple areas of technology.
+The names Zaid and I am a hybrid tech enthusiast with hopes to develop my skills in mutliple areas of technology.
 
 By trade: 
-
 ---> I am a Senior **QA Tester**
-
 ---> I am a Junior **Data Scientist**
-
 ---> I am a Junior **Software Developer** 
-
 
 ... with asperations to upskill myself further in each area.
 
 
 I'm currently working on a Data Science Bootcamp with CoGrammer focusing on new skills: 
-
 ---> **Data processing** / **Data cleaning**
-
 ---> **Data visualisations** using **NumPy**, **Pandas**, **Seaborn** and **Matplotlib**
-
 ---> Using **ML** / **NLP models**
-
 
 My moto: Little but **CONSISTENT** progress will generate a **wealth of results**
 
